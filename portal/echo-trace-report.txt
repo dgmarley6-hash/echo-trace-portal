@@ -1,0 +1,33 @@
+﻿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                   TRACE
+          Análise de ScreenShare
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Data: 2026-09-16 07:29:32
+Escopo: C:\Users\dG\AppData\Local\Temp
+Token da revisão: Q42N8oUtdbQ2eMkns7iMOkfD
+Processos observados: 275 | Arquivos inspecionados: 5000
+Nota: achados são indícios para revisão humana, não prova de trapaça.
+
+Nenhum indicador relevante foi encontrado pelas regras atuais.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+RESULTADO DA TRIAGEM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Nível de revisão: SEM INDÍCIOS NESTA COLETA
+
+Não foram encontrados indicadores pelas regras atuais, dentro do escopo informado. Isso não confirma que o computador esteja limpo; apenas registra o resultado desta coleta limitada.
+
+PROCESSOS RELEVANTES AO ESCOPO
+Exibindo 9 de 275 processo(s).
+Critérios exibidos: processo FiveM/GTA V/CitizenFX ou processo executado na pasta temporária do usuário. Use --all-processes somente quando o inventário completo for necessário.
+PID 10996 | processo pai 12128 | threads 5 | FiveM_ROSService | C:\Users\dG\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_ROSService
+PID 12128 | processo pai 17536 | threads 64 | FiveM_ROSLauncher | C:\Users\dG\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_ROSLauncher
+PID 13912 | processo pai 29380 | threads 23 | FiveM_ChromeBrowser | C:\Users\dG\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_ChromeBrowser
+PID 17536 | processo pai 25912 | threads 12 | FiveM.exe | C:\Users\dG\AppData\Local\FiveM\FiveM.exe
+PID 22716 | processo pai 17536 | threads 3 | FiveM_DumpServer | C:\Users\dG\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_DumpServer
+PID 28428 | processo pai 29380 | threads 8 | FiveM_ChromeBrowser | C:\Users\dG\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_ChromeBrowser
+PID 29380 | processo pai 17536 | threads 236 | FiveM_b3258_GTAProcess.exe | C:\Users\dG\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_b3258_GTAProcess.exe
+PID 29572 | processo pai 29380 | threads 10 | FiveM_ChromeBrowser | C:\Users\dG\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_ChromeBrowser
+PID 32764 | processo pai 29380 | threads 10 | FiveM_ChromeBrowser | C:\Users\dG\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_ChromeBrowser
